@@ -35,9 +35,8 @@
 ---
 ### Connect with me:
 
-[![website](./img/instagram-light.svg)](https://instagram.com/fikfadillah#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/fikfadillah#gh-dark-mode-only)
+[![Image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fiikfadillah#gh-light-mode-only)
 
 
 
-![Image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white): https://github.com/fikfadillah/fikfadillah
+[webdev]: https://github.com/fikfadillah/fikfadillah
