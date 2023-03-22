@@ -15,10 +15,6 @@
 #### 3. MTsN 2 Deli Serdang | Lubuk Pakam `2015 - 2018`
 #### 4. SD Swasta Nasional | Beringin `2009 - 2015`
 
-## Work Experience:
-#### FreeLance Design
-#### Operator Internet Cafe
-
 ## Languages and Tools:
 ![Image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -30,11 +26,15 @@
 <br />
 <br />
 
----
-### Connect with me:
-
-![Image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)![website](https://instagram.com/fiikfadillah#gh-light-mode-only)
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/fikfadillah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="fikfadillah" height="30" width="40" /></a>
+<a href="https://twitter.com/fikfadillah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fikfadillah" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/fikfadillah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fikfadillah" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/fikfadillah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="fikfadillah" height="30" width="40" /></a>
+<a href="https://fb.com/fikfadillah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fikfadillah" height="30" width="40" /></a>
+<a href="https://instagram.com/fiikfadillah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fiikfadillah" height="30" width="40" /></a>
+</p>
 
 
 [webdev]: https://github.com/fikfadillah/fikfadillah
