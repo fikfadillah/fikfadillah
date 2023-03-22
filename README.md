@@ -22,11 +22,9 @@
 ![Image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-
-<br />
 <br />
 
-<h3 align="left">Connect with me:</h3>
+## Connect With Me:
 <p align="left">
 <a href="https://codepen.io/fikfadillah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="fikfadillah" height="30" width="40" /></a>
 <a href="https://twitter.com/fikfadillah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fikfadillah" height="30" width="40" /></a>
