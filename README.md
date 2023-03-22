@@ -15,7 +15,7 @@
 #### 3. [MTsN 2 Deli Serdang] | Lubuk Pakam `2015 - 2018`
 #### 4. [SD Swasta Nasional] | Beringin `2009 - 2015`
 
-## Work Experience:
+### Work Experience:
 #### 1. [FreeLance Design]
 
 ### Languages and Tools:
@@ -32,7 +32,7 @@
 ---
 ### Connect with me:
 
-![Image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fiikfadillah#gh-light-mode-only)
+![Image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)(https://instagram.com/fiikfadillah#gh-light-mode-only)
 
 
 
