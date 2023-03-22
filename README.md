@@ -1,6 +1,6 @@
 # Hi there, I'm Taufik - aka [fikfadillah](https://www.youtube.com/channel/UCK2nzBYDQBayyQFnn2dlz3g) 👋
 ## About me:
-- 🔭 I’m currently working at [Home]
+- 🔭 I’m currently working at Home
 - 🌱 I’m currently learning Javascript
 - 👯 I’m looking to collaborate as Full Stack Developer 
 - 🤔 I’m looking for suggest for Web Developer
