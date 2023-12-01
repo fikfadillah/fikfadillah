@@ -1,4 +1,7 @@
 # Hi there, I'm Taufik - aka [fikfadillah](https://www.youtube.com/channel/UCK2nzBYDQBayyQFnn2dlz3g) 👋
+
+<img src="https://github.com/darsaveli/Mariam/blob/main/1479814528_webarebears.gif" width="385px" align="center">
+
 ## About me:
 - 🔭 I’m currently working at Home
 - 🌱 I’m currently learning Javascript
