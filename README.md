@@ -10,14 +10,6 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: taufikfadillah2003@gmail.com
 
-## Education:
-
-#### 1. [Universitas Islam Negeri Sumatera Utara](https://www.uinsu.ac.id) | System Information | Medan `2021-Now`
-#### 2. [SMK N 1 Beringin](https://smkn1beringin.sch.id/) | RPL | Beringin `2018-2021`
-   - The participants of the 2021 LKS in Deli Serdang
-#### 3. MTsN 2 Deli Serdang | Lubuk Pakam `2015 - 2018`
-#### 4. SD Swasta Nasional | Beringin `2009 - 2015`
-
 ## Languages and Tools:
 ![Image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
